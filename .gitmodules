@@ -1,0 +1,15 @@
+[submodule "PlayoffPredictor"]
+	path = PlayoffPredictor
+	url = https://github.com/mrnelson6/PlayoffPredictor
+[submodule "BracketLab"]
+	path = BracketLab
+	url = https://github.com/mrnelson6/BracketLab
+[submodule "lasanga"]
+	path = lasanga
+	url = https://github.com/mrnelson6/lasanga
+[submodule "Recipes"]
+	path = Recipes
+	url = https://github.com/mrnelson6/Recipes
+[submodule "CountryGame"]
+	path = CountryGame
+	url = https://github.com/mrnelson6/CountryGame
