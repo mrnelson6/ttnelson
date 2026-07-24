@@ -13,3 +13,6 @@
 [submodule "CountryGame"]
 	path = CountryGame
 	url = https://github.com/mrnelson6/CountryGame
+[submodule "Stockbot"]
+	path = Stockbot
+	url = https://github.com/mrnelson6/Stockbot
